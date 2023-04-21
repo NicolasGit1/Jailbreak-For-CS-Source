@@ -1,0 +1,40 @@
+// Default mapcycle file for Counter-Strike.
+//
+// DO NOT MODIFY THIS FILE!
+// Instead, copy it to mapcycle.txt and modify that file.  If no custom mapcycle.txt file is found,
+// this file will be used as the default.
+//
+// Also, note that the "mapcyclefile" convar can be used to specify a particular mapcycle file.
+
+ba_jail_canyon_v4
+ba_jail_foxriver_v2
+ba_jail_lockdown_final
+ba_jail_lotus_final
+ba_jail_openfield_v1
+ba_jail_resurrection_v1
+ba_jail_snowynights_v3
+ba_jail_station_v1d_fix
+ba_jail_the_best_b3
+ba_jail_tile_paradice_v_2_sg
+ba_mario_party_extended_
+jb_bisounours_party_v2
+jb_brikkenwood_v4
+jb_carceris_final_fixed
+jb_gp_among_us_2
+jb_heat_3fixed
+jb_hello_v3
+jb_iceworld
+jb_iron_v2
+jb_lego_jail_pre_v6-2
+jb_mc_raphi4life_v1
+jb_minecraft_z_v4g
+jb_mlcastle_refurbished_v1
+jb_new_summer_v2
+jb_paper_alive_v3_3
+jb_parabellum_xg_v1-1
+jb_paradise_prison_fix
+jb_spy_vs_spy
+jb_supreme_electric_dj_v2b3
+jb_umbrella_final
+jb_vipinthemix_3
+jb_vortex_dimension_v2_1

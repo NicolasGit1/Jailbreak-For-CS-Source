@@ -1,0 +1,49 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"{cornflowerblue}[INFO] {white}Rejoignez notre discord afin d'être informé des dernières nouveautés : {lightgreen}discord.gg/BAnhvXR9ed"
+    }
+    "2"
+    {
+        "chat"		"{cornflowerblue}[INFO] {white}Vous êtes motivé et vous souhaitez aider le serveur ? Nous recrutons, rendez-vous sur : {lightgreen}www.blow-corporation.fr"
+    }
+    "3"
+    {
+        "chat"		"{cornflowerblue}[INFO] {white}Les points de classement du terroriste du mois s'actualisent à votre déconnexion."
+    }
+     "4"
+    {
+        "chat"      "{cornflowerblue}[INFO] {white}Un bug ? Une suggestion ? Faîtes-nous en part sur le !discord et soyez-en récompensé !"
+    }
+    "5"
+    {
+        "chat"      "{cornflowerblue}[INFO] {white}Une plainte ? Tapez {lightgreen}/plainte <message> {white}en précisant le nom du fautif !"
+    }
+    "6"
+    {
+        "chat"      "{cornflowerblue}[INFO] {white}Vous souhaitez devenir {lightgreen}VIP {white}? Rendez-vous sur {lightgreen}vip.blow-corporation.fr {white}pour en savoir plus."
+    }
+    "7"
+    {
+        "chat"      "{cornflowerblue}[INFO] {white}Un doute sur une règle ? Tapez {lightgreen}!regles {white}pour en savoir plus."
+    }
+	
+}

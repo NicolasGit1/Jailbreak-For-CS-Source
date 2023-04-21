@@ -1,0 +1,4605 @@
+"Store"
+{
+	"Chapeaux"
+	{
+		"Spartan Helmet"
+		{
+			"model"	"models/spartahelm/spartahelm.mdl"
+			"position" "0.0 -2.2 -68.4"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+
+		"V Mask"
+		{
+			"model"	"models/v/mask.mdl"
+			"position" "0.0 -5.2 -65.2"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+
+		"Pika Hat"
+		{
+			"model"	"models/pikahat/pikahat.mdl"
+			"position" "0.0 -2.2 -68.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "9000"
+			"type" "hat"
+			"slot" "0"
+		}
+
+		"Mudkip Hat"
+		{
+			"model"	"models/mudhatk/mudhatk.mdl"
+			"position" "0.0 -2.2 -68.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "9000"
+			"type" "hat"
+			"slot" "0"
+		}
+
+		"Sentry"
+		{
+			"model"	"models/sentry_hat/sentryha.mdl"
+			"position" "0.0 -1.7 -68.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+
+		"Pedo Bear"
+		{
+			"model"	"models/pedobear/pedobearf.mdl"
+			"position" "0.0 -1.7 -70.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "9000"
+			"type" "hat"
+			"slot" "0"
+		}
+		
+		"Antlers"
+		{
+			"model"	"models/sam/antlers.mdl"
+			"position" "0.0 0.0 2.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Car Tire"
+		{
+			"model"	"models/props_vehicles/tire001c_car.mdl"
+			"position" "0.0 -10.0 0.0"
+			"angles" "90.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Watermelon"
+		{
+			"model"	"models/props_junk/watermelon01.mdl"
+			"position" "0.0 0.0 5.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Traffic Cone"
+		{
+			"model"	"models/props_junk/trafficcone001a.mdl"
+			"position" "0.0 -1.0 20.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Metal Bucket"
+		{
+			"model"	"models/props_junk/metalbucket01a.mdl"
+			"position" "0.0 0.0 -8.0"
+			"angles" "180.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Terracotta"
+		{
+			"model"	"models/props_junk/terracotta01.mdl"
+			"position" "0.0 3.0 -10.0"
+			"angles" "180.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Baseball Cap"
+		{
+			"model"	"models/props/cs_office/snowman_hat.mdl"
+			"position" "0.0 0.0 7.0"
+			"angles" "0.0 -90.0 0.0"
+			"price" "4500"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Coffee Mug"
+		{
+			"model"	"models/props/cs_office/coffee_mug.mdl"
+			"position" "0.0 0.0 9.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "4500"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"I <3 Turtles"
+		{
+			"model"	"models/props/de_tides/vending_hat.mdl"
+			"position" "1.8 0.0 4.0"
+			"angles" "0.0 -90.0 0.0"
+			"price" "4500"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Astronaut helmet"
+		{
+			"model"	"models/astronauthelmet/astronauthelmet.mdl"
+			"position" "0.0 0.0 -5.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+		
+		"Viking helmet"
+		{
+			"model"	"models/vikinghelmet/vikinghelmet.mdl"
+			"position" "0.0 -1.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "4500"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Fedora"
+		{
+			"model"	"models/gmod_tower/fedorahat.mdl"
+			"position" "0.0 -1.5 8.5"
+			"angles" "0.0 0.0 0.0"
+			"price" "4500"
+			"type" "hat"
+			"slot" "0"
+			}
+			
+		"KFC Bucket"
+		{
+			"model"	"models/gmod_tower/kfcbucket.mdl"
+			"position" "0.0 -1.0 3.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "9000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Cake Hat"
+		{
+			"model"	"models/cakehat/cakehat.mdl"
+			"position" "0.0 -1.0 3.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Santa Hat"
+		{
+			"model"	"models/santahat/santahat.mdl"
+			"position" "0.0 -1.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Dunce Hat"
+		{
+			"model"	"models/duncehat/duncehat.mdl"
+			"position" "0.0 -1.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "3000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Sombrero"
+		{
+			"model"	"models/gmod_tower/sombrero.mdl"
+			"position" "0.0 -1.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "9000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Cat Ears"
+		{
+			"model"	"models/gmod_tower/catears.mdl"
+			"position" "0.0 -3.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "3000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Afro"
+		{
+			"model"	"models/gmod_tower/afro.mdl"
+			"position" "0.0 -3.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "12000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Andross Mask"
+		{
+			"model"	"models/gmod_tower/androssmask.mdl"
+			"position" "0.0 2.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "9000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Drink Cap"
+		{
+			"model"	"models/gmod_tower/drinkcap.mdl"
+			"position" "0.0 -1.0 7.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+			}
+			
+		"Headcrab Hat"
+		{
+			"model"	"models/gmod_tower/headcrabhat.mdl"
+			"position" "0.0 -3.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Majorasmask"
+		{
+			"model"	"models/gmod_tower/majorasmask.mdl"
+			"position" "0.0 0.5 0.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Toromask"
+		{
+			"model"	"models/gmod_tower/toromask.mdl"
+			"position" "0.0 -1.0 4.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Top Hat"
+		{
+			"model"	"models/gmod_tower/tophat.mdl"
+			"position" "0.0 -1.7 4.5"
+			"angles" "0.0 0.0 0.0"
+			"price" "4500"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Witch Hat"
+		{
+			"model"	"models/gmod_tower/witchhat.mdl"
+			"position" "0.0 0.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "4500"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Toeto Hat"
+		{
+			"model"	"models/gmod_tower/toetohat.mdl"
+			"position" "0.0 -1.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "3000"
+			"type" "hat"
+			"slot" "0"
+		}
+		
+		"Party Hat"
+		{
+			"model"	"models/gmod_tower/partyhat.mdl"
+			"position" "1.0 -1.0 7.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "3000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Seuss Hat"
+		{
+			"model"	"models/gmod_tower/seusshat.mdl"
+			"position" "0.0 -1.0 6.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Link Hat"
+		{
+			"model"	"models/gmod_tower/linkhat.mdl"
+			"position" "0.0 -5.0 4.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "6000"
+			"type" "hat"
+			"slot" "0"
+		}
+			
+		"Midna Hat"
+		{
+			"model"	"models/gmod_tower/midnahat.mdl"
+			"position" "0.0 0.0 0.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "9000"
+			"type" "hat"
+			"slot" "0"
+		}
+	}
+
+	"Lunettes"
+	{
+		"3D Glasses"
+		{
+			"model"	"models/gmod_tower/3dglasses.mdl"
+			"position" "0.0 0.5 2.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "4500"
+			"type" "hat"
+			"slot" "1"
+		}
+			
+		"Aviators"
+		{
+			"model"	"models/gmod_tower/aviators.mdl"
+			"position" "0.0 0.5 2.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "3000"
+			"type" "hat"
+			"slot" "1"
+		}
+			
+		"Star Glasses"
+		{
+			"model"	"models/gmod_tower/starglasses.mdl"
+			"position" "0.0 0.5 2.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "1500"
+			"type" "hat"
+			"slot" "1"
+			}
+			
+		"Kliener Glasses"
+		{
+			"model"	"models/gmod_tower/klienerglasses.mdl"
+			"position" "0.0 0.5 2.0"
+			"angles" "0.0 0.0 0.0"
+			"price" "1500"
+			"type" "hat"
+			"slot" "1"
+		}
+	}
+
+	"Trails"
+	{
+		"8Bit Mushroom"
+		{
+			"material" "materials/sprites/store/trails/8bitmushroom.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"8Bit Pow"
+		{
+			"material" "materials/sprites/store/trails/8bitpow.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Airforce"
+		{
+			"material" "materials/sprites/store/trails/airforce.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Airforce 2"
+		{
+			"material" "materials/sprites/store/trails/airforce2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Apple"
+		{
+			"material" "materials/sprites/store/trails/apple.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrow Rainbow"
+		{
+			"material" "materials/sprites/store/trails/arrowrainbow.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrows"
+		{
+			"material" "materials/sprites/store/trails/arrows.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Assasin"
+		{
+			"material" "materials/sprites/store/trails/assasin.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		
+		"Awesome"
+		{
+			"material" "materials/sprites/store/trails/awesome.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Awesome Sad"
+		{
+			"material" "materials/sprites/store/trails/awesome_sad.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Awesome Face"
+		{
+			"material" "materials/sprites/store/trails/awesomeface.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Babyand"
+		{
+			"material" "materials/sprites/store/trails/babyand.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Banknote"
+		{
+			"material" "materials/sprites/store/trails/banknote.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Barcalona"
+		{
+			"material" "materials/sprites/store/trails/barcalona.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Batman"
+		{
+			"material" "materials/sprites/store/trails/batman.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Battlefield"
+		{
+			"material" "materials/sprites/store/trails/battlefield.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Beer Mug"
+		{
+			"material" "materials/sprites/store/trails/beermug.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Biohazard"
+		{
+			"material" "materials/sprites/store/trails/biohazard.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Blade"
+		{
+			"material" "materials/sprites/store/trails/blade.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Blue Lightning"
+		{
+			"material" "materials/sprites/store/trails/bluelightning.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"BMW Logo"
+		{
+			"material" "materials/sprites/store/trails/bmwlogo.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Bom Bomb"
+		{
+			"material" "materials/sprites/store/trails/bombomb.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Boo"
+		{
+			"material" "materials/sprites/store/trails/boo.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Bullet Bill"
+		{
+			"material" "materials/sprites/store/trails/bulletbill.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Bullets"
+		{
+			"material" "materials/sprites/store/trails/bullets.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Canada Flag"
+		{
+			"material" "materials/sprites/store/trails/canadaflag.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Candies"
+		{
+			"material" "materials/sprites/store/trails/candies.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ccole"
+		{
+			"material" "materials/sprites/store/trails/ccole.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Cereal-guy"
+		{
+			"material" "materials/sprites/store/trails/cereal-guy.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Challenge"
+		{
+			"material" "materials/sprites/store/trails/challenge.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Chopped Pyro"
+		{
+			"material" "materials/sprites/store/trails/chopped_pyro.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Chris Light"
+		{
+			"material" "materials/sprites/store/trails/chrislight.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Christ Lights"
+		{
+			"material" "materials/sprites/store/trails/christlights.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Coca-Cola"
+		{
+			"material" "materials/sprites/store/trails/cocacola.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Coca-Cola 2"
+		{
+			"material" "materials/sprites/store/trails/cocacola2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Color Bolt"
+		{
+			"material" "materials/sprites/store/trails/colorbolt.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Cookies"
+		{
+			"material" "materials/sprites/store/trails/cookies.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Cracked Beam"
+		{
+			"material" "materials/sprites/store/trails/crackedbeam.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Creed"
+		{
+			"material" "materials/sprites/store/trails/creed.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Creeper"
+		{
+			"material" "materials/sprites/store/trails/creeper.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Crown"
+		{
+			"material" "materials/sprites/store/trails/crown.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Damnim Good"
+		{
+			"material" "materials/sprites/store/trails/damnimgood.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Danish Flag"
+		{
+			"material" "materials/sprites/store/trails/danishflag.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Dark Knight"
+		{
+			"material" "materials/sprites/store/trails/darkknight.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Deadmau5"
+		{
+			"material" "materials/sprites/store/trails/deadmau5.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Deadmau5 2"
+		{
+			"material" "materials/sprites/store/trails/deadmau52.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Deadmau5 3"
+		{
+			"material" "materials/sprites/store/trails/deadmau53.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Deadmau5 4"
+		{
+			"material" "materials/sprites/store/trails/deadmau54.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Dead Pool"
+		{
+			"material" "materials/sprites/store/trails/deadpool.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Dirt"
+		{
+			"material" "materials/sprites/store/trails/dirt.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Disorder Dragon"
+		{
+			"material" "materials/sprites/store/trails/disorderdragonv2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Disorder Logo"
+		{
+			"material" "materials/sprites/store/trails/disorderlogo2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Disorder Text"
+		{
+			"material" "materials/sprites/store/trails/disordertext10.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"DNA 2"
+		{
+			"material" "materials/sprites/store/trails/dna2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Dollars"
+		{
+			"material" "materials/sprites/store/trails/dollars.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Donuts"
+		{
+			"material" "materials/sprites/store/trails/donuts.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Double Rainbow"
+		{
+			"material" "materials/sprites/store/trails/doublerainbow.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Dragon"
+		{
+			"material" "materials/sprites/store/trails/dragon.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Dragon Disorder"
+		{
+			"material" "materials/sprites/store/trails/dragondisorder.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"EA Fifa"
+		{
+			"material" "materials/sprites/store/trails/eafifa.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"EA Logo"
+		{
+			"material" "materials/sprites/store/trails/ealogo.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Earth"
+		{
+			"material" "materials/sprites/store/trails/earth.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Energy"
+		{
+			"material" "materials/sprites/store/trails/energy.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Energyball"
+		{
+			"material" "materials/sprites/store/trails/energyball.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Epicsax"
+		{
+			"material" "materials/sprites/store/trails/epicsax.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Facebook Icon"
+		{
+			"material" "materials/sprites/store/trails/facebookicon.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Fap Face"
+		{
+			"material" "materials/sprites/store/trails/fapface.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Faxekondi"
+		{
+			"material" "materials/sprites/store/trails/faxekondi.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ferrari"
+		{
+			"material" "materials/sprites/store/trails/ferrari.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Fire"
+		{
+			"material" "materials/sprites/store/trails/fire.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Fire 2"
+		{
+			"material" "materials/sprites/store/trails/fire1.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Firefox"
+		{
+			"material" "materials/sprites/store/trails/firefox.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Fireman"
+		{
+			"material" "materials/sprites/store/trails/fireman.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Footprint"
+		{
+			"material" "materials/sprites/store/trails/footprint.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Forever Alone"
+		{
+			"material" "materials/sprites/store/trails/foreveralone.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Fuu 1"
+		{
+			"material" "materials/sprites/store/trails/fuu1.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Fuu 2"
+		{
+			"material" "materials/sprites/store/trails/fuu2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Fuck Yeah"
+		{
+			"material" "materials/sprites/store/trails/fyeah.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"German Flag"
+		{
+			"material" "materials/sprites/store/trails/germanflag.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Google Chrome"
+		{
+			"material" "materials/sprites/store/trails/googlechrome.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Goomba"
+		{
+			"material" "materials/sprites/store/trails/goomba.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Grenade"
+		{
+			"material" "materials/sprites/store/trails/grenade.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Gummybears"
+		{
+			"material" "materials/sprites/store/trails/gummybears.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Gusta"
+		{
+			"material" "materials/sprites/store/trails/gusta.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Half-Life"
+		{
+			"material" "materials/sprites/store/trails/halflife.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Handgun"
+		{
+			"material" "materials/sprites/store/trails/handgun.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Headshot"
+		{
+			"material" "materials/sprites/store/trails/headshot.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Heart"
+		{
+			"material" "materials/sprites/store/trails/heart.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Hello Kitty"
+		{
+			"material" "materials/sprites/store/trails/hellokitty.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Hex"
+		{
+			"material" "materials/sprites/store/trails/hex.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Hypnotic"
+		{
+			"material" "materials/sprites/store/trails/hypnotic.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Hypnotoad"
+		{
+			"material" "materials/sprites/store/trails/hypnotoad.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ice"
+		{
+			"material" "materials/sprites/store/trails/ice.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ice 2"
+		{
+			"material" "materials/sprites/store/trails/ice1.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Icloud"
+		{
+			"material" "materials/sprites/store/trails/icloud.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Invisible Bike"
+		{
+			"material" "materials/sprites/store/trails/invisible_bike.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Jackass"
+		{
+			"material" "materials/sprites/store/trails/jackass.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Jester"
+		{
+			"material" "materials/sprites/store/trails/jester.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Kaleido Scope"
+		{
+			"material" "materials/sprites/store/trails/kaleidoscope.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Kingdom Hearts"
+		{
+			"material" "materials/sprites/store/trails/kingdomhearts.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Kirby"
+		{
+			"material" "materials/sprites/store/trails/kirby.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Latvia"
+		{
+			"material" "materials/sprites/store/trails/latvia.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Leaves"
+		{
+			"material" "materials/sprites/store/trails/leaves.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Leaves 2"
+		{
+			"material" "materials/sprites/store/trails/leaves1.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Leaves 3"
+		{
+			"material" "materials/sprites/store/trails/leaves2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Leaves 4"
+		{
+			"material" "materials/sprites/store/trails/leaves21.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Lightning 2"
+		{
+			"material" "materials/sprites/store/trails/lightning2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Lightning 3"
+		{
+			"material" "materials/sprites/store/trails/lightning3.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Lightspeed"
+		{
+			"material" "materials/sprites/store/trails/lightspeed.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Lightwave"
+		{
+			"material" "materials/sprites/store/trails/lightwave.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"LOL"
+		{
+			"material" "materials/sprites/store/trails/lol.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"LOL Guy"
+		{
+			"material" "materials/sprites/store/trails/lolguy.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Mario"
+		{
+			"material" "materials/sprites/store/trails/mario.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Masterchief"
+		{
+			"material" "materials/sprites/store/trails/masterchief.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		
+
+		"Mcdonalds"
+		{
+			"material" "materials/sprites/store/trails/mcdonald.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Medic"
+		{
+			"material" "materials/sprites/store/trails/medic.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Metallic"
+		{
+			"material" "materials/sprites/store/trails/metallic.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Metal Skull"
+		{
+			"material" "materials/sprites/store/trails/metalskull.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Metroid"
+		{
+			"material" "materials/sprites/store/trails/metroid.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Micky Mouse"
+		{
+			"material" "materials/sprites/store/trails/mickymouse.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Minecraft"
+		{
+			"material" "materials/sprites/store/trails/minecraft.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Moneybag"
+		{
+			"material" "materials/sprites/store/trails/moneybag.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"mtvlogo"
+		{
+			"material" "materials/sprites/store/trails/mtvlogo.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Mudkip"
+		{
+			"material" "materials/sprites/store/trails/mudkip.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Mushroom"
+		{
+			"material" "materials/sprites/store/trails/mushroom.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Mushroom 2"
+		{
+			"material" "materials/sprites/store/trails/mushroom2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Nevergup"
+		{
+			"material" "materials/sprites/store/trails/nevergup.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Nyan"
+		{
+			"material" "materials/sprites/store/trails/nyan.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ocarina"
+		{
+			"material" "materials/sprites/store/trails/ocarina.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Okami"
+		{
+			"material" "materials/sprites/store/trails/okami.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Okay Guy"
+		{
+			"material" "materials/sprites/store/trails/okayguy.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Oops"
+		{
+			"material" "materials/sprites/store/trails/oops.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Orly"
+		{
+			"material" "materials/sprites/store/trails/orly.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pacman"
+		{
+			"material" "materials/sprites/store/trails/pacman.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Paint Splatter"
+		{
+			"material" "materials/sprites/store/trails/paintsplatter.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Panda"
+		{
+			"material" "materials/sprites/store/trails/panda.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Paw Print"
+		{
+			"material" "materials/sprites/store/trails/pawprint.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Peace"
+		{
+			"material" "materials/sprites/store/trails/peace.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pedobear"
+		{
+			"material" "materials/sprites/store/trails/pedobear.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pfffft"
+		{
+			"material" "materials/sprites/store/trails/pfffft.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pika"
+		{
+			"material" "materials/sprites/store/trails/pika.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pikmin"
+		{
+			"material" "materials/sprites/store/trails/pikmin.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pinkie"
+		{
+			"material" "materials/sprites/store/trails/pinkie.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pink Ribbon"
+		{
+			"material" "materials/sprites/store/trails/pinkribbon.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Playboy"
+		{
+			"material" "materials/sprites/store/trails/playboy.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Plur"
+		{
+			"material" "materials/sprites/store/trails/plur.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pokeball"
+		{
+			"material" "materials/sprites/store/trails/pokeball.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pokemon"
+		{
+			"material" "materials/sprites/store/trails/pokemon.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Poker"
+		{
+			"material" "materials/sprites/store/trails/poker.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Police"
+		{
+			"material" "materials/sprites/store/trails/police.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Potleaf"
+		{
+			"material" "materials/sprites/store/trails/potleaf.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pretzel"
+		{
+			"material" "materials/sprites/store/trails/pretzel.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Problems Face"
+		{
+			"material" "materials/sprites/store/trails/problems_face.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Psychball"
+		{
+			"material" "materials/sprites/store/trails/psychball.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Psych Triangle"
+		{
+			"material" "materials/sprites/store/trails/psychtriangle.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Pumpkin"
+		{
+			"material" "materials/sprites/store/trails/pumpkin.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Purple Lightning"
+		{
+			"material" "materials/sprites/store/trails/purplelightning.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Puttegris"
+		{
+			"material" "materials/sprites/store/trails/puttegris.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"pwned"
+		{
+			"material" "materials/sprites/store/trails/pwned.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Quake"
+		{
+			"material" "materials/sprites/store/trails/quake.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Question"
+		{
+			"material" "materials/sprites/store/trails/question.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Raf"
+		{
+			"material" "materials/sprites/store/trails/raf.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Rain"
+		{
+			"material" "materials/sprites/store/trails/rain.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Rainbow Dash"
+		{
+			"material" "materials/sprites/store/trails/rainbow-dash.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Rainbow"
+		{
+			"material" "materials/sprites/store/trails/rainbow.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Rainbow Cobra 2"
+		{
+			"material" "materials/sprites/store/trails/rainbowcobra2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Rainbow Cry"
+		{
+			"material" "materials/sprites/store/trails/rainbowcry.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Real Madrid"
+		{
+			"material" "materials/sprites/store/trails/realmadrid.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Reaper"
+		{
+			"material" "materials/sprites/store/trails/reaper.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Retro Egg"
+		{
+			"material" "materials/sprites/store/trails/retroegg.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Retro Flower"
+		{
+			"material" "materials/sprites/store/trails/retroflower.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Sep Rainbow"
+		{
+			"material" "materials/sprites/store/trails/seprainbow.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Sharingan"
+		{
+			"material" "materials/sprites/store/trails/sharingan.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Shell"
+		{
+			"material" "materials/sprites/store/trails/shell.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Shroom5"
+		{
+			"material" "materials/sprites/store/trails/shroom5.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Skull"
+		{
+			"material" "materials/sprites/store/trails/skull.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Skulln Bones"
+		{
+			"material" "materials/sprites/store/trails/skullnbones.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Skype Logo"
+		{
+			"material" "materials/sprites/store/trails/skypelogo.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Slow Poke"
+		{
+			"material" "materials/sprites/store/trails/slowpoke.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Smirnoff"
+		{
+			"material" "materials/sprites/store/trails/smirnoff.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Smugleaf"
+		{
+			"material" "materials/sprites/store/trails/smugleaf.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Snowman"
+		{
+			"material" "materials/sprites/store/trails/snowman.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Sony Logo"
+		{
+			"material" "materials/sprites/store/trails/sonylogo.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"SOS"
+		{
+			"material" "materials/sprites/store/trails/sos.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Spider"
+		{
+			"material" "materials/sprites/store/trails/spider.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Spongebob"
+		{
+			"material" "materials/sprites/store/trails/spongebob.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Spotify"
+		{
+			"material" "materials/sprites/store/trails/spotify.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"SRS Face"
+		{
+			"material" "materials/sprites/store/trails/srsface.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Star"
+		{
+			"material" "materials/sprites/store/trails/star.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Superman Logo"
+		{
+			"material" "materials/sprites/store/trails/supermanlogo.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Swirly"
+		{
+			"material" "materials/sprites/store/trails/swirly.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Taco"
+		{
+			"material" "materials/sprites/store/trails/taco.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Test 1000"
+		{
+			"material" "materials/sprites/store/trails/test1000.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Timebomb"
+		{
+			"material" "materials/sprites/store/trails/timebomb.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Tmi Shit"
+		{
+			"material" "materials/sprites/store/trails/tmishit.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"triforce"
+		{
+			"material" "materials/sprites/store/trails/triforce.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"trippy"
+		{
+			"material" "materials/sprites/store/trails/trippy.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Troll Face"
+		{
+			"material" "materials/sprites/store/trails/trollface.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Tux"
+		{
+			"material" "materials/sprites/store/trails/tux.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Twitter"
+		{
+			"material" "materials/sprites/store/trails/twitter.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"UK Flag"
+		{
+			"material" "materials/sprites/store/trails/ukflag.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ultra"
+		{
+			"material" "materials/sprites/store/trails/ultra.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Umbrella Corperation"
+		{
+			"material" "materials/sprites/store/trails/umbrellacorp.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Up Arrow"
+		{
+			"material" "materials/sprites/store/trails/uparrow.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"US Flag"
+		{
+			"material" "materials/sprites/store/trails/usflag.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"War Heads"
+		{
+			"material" "materials/sprites/store/trails/warheads.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Warrior"
+		{
+			"material" "materials/sprites/store/trails/warrior.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Water 2"
+		{
+			"material" "materials/sprites/store/trails/water2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Wheel"
+		{
+			"material" "materials/sprites/store/trails/wheel.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Windows"
+		{
+			"material" "materials/sprites/store/trails/windows.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Wings"
+		{
+			"material" "materials/sprites/store/trails/wings.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Wolf"
+		{
+			"material" "materials/sprites/store/trails/wolf.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Wonder Woman"
+		{
+			"material" "materials/sprites/store/trails/wonder_woman.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Words"
+		{
+			"material" "materials/sprites/store/trails/words.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Medic 2"
+		{
+			"material" "materials/sprites/store/trails/x_medic.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Xbox Logo"
+		{
+			"material" "materials/sprites/store/trails/xboxlogo.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Y U NO Guy"
+		{
+			"material" "materials/sprites/store/trails/y-u-no-guy.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ying-Yang"
+		{
+			"material" "materials/sprites/store/trails/yingyang.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Ying-Yang 2"
+		{
+			"material" "materials/sprites/store/trails/yingyang2.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Yukari"
+		{
+			"material" "materials/sprites/store/trails/yukari.vmt"
+			"price" "12500"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+	}
+	
+	"Grenade Trails"
+	{
+		"Thin Beam"
+		{
+			"material" "materials/sprites/combineball_trail_black_1.vmt"
+			"price" "7500"
+			"type" "grenadetrail"
+			"color" "255 0 255 255"
+		}
+		
+		"Squiggly Beam"
+		{
+			"material" "materials/sprites/hydragutbeam.vmt"
+			"price" "7500"
+			"type" "grenadetrail"
+			"color" "255 0 255 255"
+		}
+		
+		"Medium Beam"
+		{
+			"material" "materials/sprites/orangelight1.vmt"
+			"price" "7500"
+			"type" "grenadetrail"
+			"color" "255 0 255 255"
+		}
+		
+		"Large Beam"
+		{
+			"material" "materials/sprites/spotlight.vmt"
+			"price" "7500"
+			"type" "grenadetrail"
+			"color" "255 0 255 255"
+		}
+		
+		"Red Laserbeam"
+		{
+			"material" "materials/sprites/laserbeam.vmt"
+			"price" "7500"
+			"type" "grenadetrail"
+			"color" "255 0 0 255"
+			"unique_id" "grenadetrail_laserbeam_red"
+		}
+		
+		"Blue Laserbeam"
+		{
+			"material" "materials/sprites/laserbeam.vmt"
+			"price" "7500"
+			"type" "grenadetrail"
+			"color" "0 0 255 255"
+			"unique_id" "grenadetrail_laserbeam_blue"
+		}
+	}
+	
+	"Titres"
+	{
+		"Clochard"
+		{
+			"tag" "{gray}Clochard{teamcolor} "
+			"price" "1200"
+			"type" "nametag"
+		}
+		"Victime"
+		{
+			"tag" "{genuine}Victime{teamcolor} "
+			"price" "2000"
+			"type" "nametag"
+		}
+		"Ninja"
+		{
+			"tag" "{violet}Ninja{teamcolor} "
+			"price" "3000"
+			"type" "nametag"
+		}
+		"Jefe"
+		{
+			"tag" "{yellow}Jefe{teamcolor} "
+			"price" "3000"
+			"type" "nametag"
+		}
+		"AMAZING"
+		{
+			"tag" "{lightpink}AMAZING{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"Assassin"
+		{
+			"tag" "{darkgrey}Assassin{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"Baron"
+		{
+			"tag" "{lightpink}Baron{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"GODLIKE"
+		{
+			"tag" "{lightpink}GODLIKE{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"King"
+		{
+			"tag" "{indigo}King{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"Maître"
+		{
+			"tag" "{indianred}Maître{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"Overlord"
+		{
+			"tag" "{lightgreen}Overlord{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"Princess"
+		{
+			"tag" "{tan}Princess{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"Queen"
+		{
+			"tag" "{peachpuff}Queen{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"The Awesome"
+		{
+			"tag" "{palevioletred}The Awesome{teamcolor} "
+			"price" "6000"
+			"type" "nametag"
+		}
+		"Leader"
+		{
+			"tag" "{fullred}Leader{teamcolor} "
+			"price" "600000"
+			"type" "nametag"
+		}
+		"Admin"
+		{
+			"tag" "{orangered}Admin{teamcolor} "
+			"price" "600000"
+			"type" "nametag"
+		}
+	}
+
+	"Couleur du pseudo"
+	{
+		"Alice Blue"
+		{
+			"color" "{aliceblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Antique White"
+		{
+			"color" "{antiquewhite}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Aqua"
+		{
+			"color" "{aqua}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Aquamarine"
+		{
+			"color" "{aquamarine}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Azure"
+		{
+			"color" "{azure}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Beige"
+		{
+			"color" "{beige}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Bisque"
+		{
+			"color" "{bisque}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Black"
+		{
+			"color" "{black}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Blanche Dalmond"
+		{
+			"color" "{blanchedalmond}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Blue"
+		{
+			"color" "{blue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Blue Violet"
+		{
+			"color" "{blueviolet}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Brown"
+		{
+			"color" "{brown}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Burly Wood"
+		{
+			"color" "{burlywood}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Cadet Blue"
+		{
+			"color" "{cadetblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Chartreuse"
+		{
+			"color" "{chartreuse}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Chocolate"
+		{
+			"color" "{chocolate}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Community"
+		{
+			"color" "{community}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Coral"
+		{
+			"color" "{coral}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+			"Cornflower Blue"
+		{
+			"color" "{cornflowerblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Corn Silk"
+		{
+			"color" "{cornsilk}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Crimson"
+		{
+			"color" "{crimson}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+		"Cyan"
+		{
+			"color" "{cyan}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Blue"
+		{
+			"color" "{darkblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Cyan"
+		{
+			"color" "{darkcyan}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Golden Rod"
+		{
+			"color" "{darkgoldenrod}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+			"Dark Gray"
+		{
+			"color" "{darkgray}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Green"
+		{
+			"color" "{darkgreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark khaki"
+		{
+			"color" "{darkkhaki}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark magenta"
+		{
+			"color" "{darkmagenta}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark oliveGreen"
+		{
+			"color" "{darkolivegreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark orange"
+			{
+			"color" "{darkorange}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Orchid"
+		{
+			"color" "{darkorchid}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Red"
+		{
+			"color" "{darkred}"
+			"price" "10000"
+			"type" "namecolor"
+		}
+
+		"Dark salmon"
+		{
+			"color" "{darksalmon}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Sea Green"
+		{
+			"color" "{darkseagreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark SlateBlue"
+		{
+			"color" "{darkslateblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Slategray"
+		{
+			"color" "{darkslategray}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dark Turquoise"
+		{
+			"color" "{darkturquoise}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+			"Dark Violet"
+		{
+			"color" "{darkviolet}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Deep Pink"
+		{
+			"color" "{deeppink}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Deep Skyblue"
+		{
+			"color" "{deepskyblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dimgray"
+		{
+			"color" "{dimgray}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Dodger Blue"
+		{
+			"color" "{dodgerblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Firebrick"
+		{
+			"color" "{firebrick}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Floral White"
+		{
+			"color" "{floralwhite}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Forest Green"
+		{
+			"color" "{forestgreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Fuchsia"
+		{
+			"color" "{fuchsia}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Full Blue"
+		{
+			"color" "{fullblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Full Red"
+		{
+			"color" "{fullred}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Gainsboro"
+		{
+			"color" "{gainsboro}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Genuine"
+		{
+			"color" "{genuine}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Ghost White"
+		{
+			"color" "{ghostwhite}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Gold"
+		{
+			"color" "{gold}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Goldenrod"
+		{
+			"color" "{goldenrod}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Gray"
+		{
+			"color" "{gray}"
+			"price" "10000"
+			"type" "namecolor"
+		}
+
+		"Green"
+		{
+			"color" "{green}"
+			"price" "10000"
+			"type" "namecolor"
+		}
+
+		"Green Yellow"
+		{
+			"color" "{greenyellow}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Haunted"
+		{
+			"color" "{haunted}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+			}
+
+		"Honeydew"
+		{
+			"color" "{honeydew}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Hot Pink"
+		{
+			"color" "{hotpink}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Indian Red"
+		{
+			"color" "{indianred}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Indigo"
+		{
+			"color" "{indigo}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Ivory"
+		{
+			"color" "{ivory}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Khaki"
+		{
+			"color" "{khaki}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Lavender"
+		{
+			"color" "{lavender}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Lavender Blush"
+		{
+			"color" "{lavenderblush}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Lawn Green"
+		{
+			"color" "{lawngreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Lemon Chiffon"
+		{
+			"color" "{lemonchiffon}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Blue"
+		{
+			"color" "{lightblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Coral"
+		{
+			"color" "{lightcoral}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Cyan"
+		{
+			"color" "{lightcyan}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Goldenrod Yellow"
+		{
+			"color" "{lightgoldenrodyellow}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Red"
+		{
+			"color" "{lightred}"
+			"price" "10000"
+			"type" "namecolor"
+		}
+
+		"Light Gray"
+		{
+			"color" "{lightgray}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Green"
+		{
+			"color" "{lightgreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Pink"
+		{
+			"color" "{lightpink}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Salmon"
+		{
+			"color" "{lightsalmon}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Sea Green"
+		{
+			"color" "{lightseagreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Skyblue"
+		{
+			"color" "{lightskyblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Slategray"
+		{
+			"color" "{lightslategray}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Steel Blue"
+		{
+			"color" "{lightsteelblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Light Yellow"
+		{
+			"color" "{lightyellow}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Lime"
+		{
+			"color" "{lime}"
+			"price" "10000"
+			"type" "namecolor"
+		}
+
+		"Lime Green"
+			{
+			"color" "{limegreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Linen"
+		{
+			"color" "{linen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Magenta"
+		{
+			"color" "{magenta}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Maroon"
+		{
+			"color" "{maroon}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Aquamarine"
+		{
+			"color" "{mediumaquamarine}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Blue"
+		{
+			"color" "{mediumblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Orchid"
+		{
+			"color" "{mediumorchid}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Purple"
+		{
+			"color" "{mediumpurple}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Sea Green"
+		{
+			"color" "{mediumseagreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Slate Blue"
+		{
+			"color" "{mediumslateblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Spring Green"
+		{
+			"color" "{mediumspringgreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Turquoise"
+		{
+			"color" "{mediumturquoise}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Medium Violet Red"
+		{
+			"color" "{mediumvioletred}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Midnight Blue"
+		{
+			"color" "{midnightblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Mintcream"
+		{
+			"color" "{mintcream}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Misty Rose"
+		{
+			"color" "{mistyrose}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Moccasin"
+		{
+			"color" "{moccasin}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Navajo White"
+		{
+			"color" "{navajowhite}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Navy"
+		{
+			"color" "{navy}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Old Lace"
+		{
+			"color" "{oldlace}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Olive"
+		{
+			"color" "{olive}"
+			"price" "10000"
+			"type" "namecolor"
+		}
+
+		"Olive Drab"
+		{
+			"color" "{olivedrab}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Orange"
+		{
+			"color" "{orange}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Orange Red"
+		{
+			"color" "{orangered}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Orchid"
+		{
+			"color" "{orchid}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Pale Golden Rod"
+		{
+			"color" "{palegoldenrod}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Pale Green"
+		{
+			"color" "{palegreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Pale Turquoise"
+		{
+			"color" "{paleturquoise}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Pale violetRed"
+		{
+			"color" "{palevioletred}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Papaya Whip"
+		{
+			"color" "{papayawhip}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Peach Puff"
+		{
+			"color" "{peachpuff}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Peru"
+		{
+			"color" "{peru}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Pink"
+		{
+			"color" "{pink}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Plum"
+		{
+			"color" "{plum}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Powder Blue"
+		{
+			"color" "{powderblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Purple"
+		{
+			"color" "{purple}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Red"
+		{
+			"color" "{red}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Rosy Brown"
+		{
+			"color" "{rosybrown}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Royal Blue"
+		{
+			"color" "{royalblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Saddle Brown"
+		{
+			"color" "{saddlebrown}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Salmon"
+		{
+			"color" "{salmon}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Sandy Brown"
+		{
+			"color" "{sandybrown}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Sea Green"
+		{
+			"color" "{seagreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Seashell"
+		{
+			"color" "{seashell}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Sienna"
+		{
+			"color" "{sienna}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Silver"
+		{
+			"color" "{silver}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Skyblue"
+		{
+			"color" "{skyblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Slate blue"
+		{
+			"color" "{slateblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Slate Gray"
+		{
+			"color" "{slategray}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Snow"
+		{
+			"color" "{snow}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Spring Green"
+		{
+			"color" "{springgreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Steel Blue"
+		{
+			"color" "{steelblue}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Tan"
+		{
+			"color" "{tan}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Teal"
+		{
+			"color" "{teal}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Thistle"
+		{
+			"color" "{thistle}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Tomato"
+		{
+			"color" "{tomato}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Turquoise"
+		{
+			"color" "{turquoise}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Violet"
+		{
+			"color" "{violet}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Wheat"
+		{
+			"color" "{wheat}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"White"
+		{
+			"color" "{white}"
+			"price" "10000"
+			"type" "namecolor"
+		}
+
+		"Yellow"
+		{
+			"color" "{yellow}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+
+		"Yellow Green"
+		{
+			"color" "{yellowgreen}"
+			"price" "10000"
+			"type" "namecolor"
+			"games" "tf,cstrike"
+		}
+	}
+		
+	"Couleur d'écriture"
+		{
+			"Alice Blue"
+			{
+				"color" "{aliceblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Antique White"
+			{
+				"color" "{antiquewhite}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Aqua"
+			{
+				"color" "{aqua}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Aquamarine"
+			{
+				"color" "{aquamarine}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Azure"
+			{
+				"color" "{azure}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Beige"
+			{
+				"color" "{beige}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Bisque"
+			{
+				"color" "{bisque}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Black"
+			{
+				"color" "{black}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Blanche Dalmond"
+			{
+				"color" "{blanchedalmond}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Blue"
+			{
+				"color" "{blue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Blue Violet"
+			{
+				"color" "{blueviolet}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Brown"
+			{
+				"color" "{brown}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Burly Wood"
+			{
+				"color" "{burlywood}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Cadet Blue"
+			{
+				"color" "{cadetblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Chartreuse"
+			{
+				"color" "{chartreuse}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Chocolate"
+			{
+				"color" "{chocolate}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Community"
+			{
+				"color" "{community}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Coral"
+			{
+				"color" "{coral}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Cornflower Blue"
+			{
+				"color" "{cornflowerblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Corn Silk"
+			{
+				"color" "{cornsilk}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Crimson"
+			{
+				"color" "{crimson}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+			"Cyan"
+			{
+				"color" "{cyan}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Blue"
+			{
+				"color" "{darkblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Cyan"
+			{
+				"color" "{darkcyan}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Golden Rod"
+			{
+				"color" "{darkgoldenrod}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Gray"
+			{
+				"color" "{darkgray}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Green"
+			{
+				"color" "{darkgreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark khaki"
+			{
+				"color" "{darkkhaki}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark magenta"
+			{
+				"color" "{darkmagenta}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark oliveGreen"
+			{
+				"color" "{darkolivegreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark orange"
+			{
+				"color" "{darkorange}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Orchid"
+			{
+				"color" "{darkorchid}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Red"
+			{
+				"color" "{darkred}"
+				"price" "10000"
+				"type" "msgcolor"
+			}
+
+			"Dark salmon"
+			{
+				"color" "{darksalmon}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Sea Green"
+			{
+				"color" "{darkseagreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark SlateBlue"
+			{
+				"color" "{darkslateblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Slategray"
+			{
+				"color" "{darkslategray}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Turquoise"
+			{
+				"color" "{darkturquoise}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dark Violet"
+			{
+				"color" "{darkviolet}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Deep Pink"
+			{
+				"color" "{deeppink}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Deep Skyblue"
+			{
+				"color" "{deepskyblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dimgray"
+			{
+				"color" "{dimgray}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Dodger Blue"
+			{
+				"color" "{dodgerblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Firebrick"
+			{
+				"color" "{firebrick}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Floral White"
+			{
+				"color" "{floralwhite}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Forest Green"
+			{
+				"color" "{forestgreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Fuchsia"
+			{
+				"color" "{fuchsia}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Full Blue"
+			{
+				"color" "{fullblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Full Red"
+			{
+				"color" "{fullred}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gainsboro"
+			{
+				"color" "{gainsboro}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Genuine"
+			{
+				"color" "{genuine}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Ghost White"
+			{
+				"color" "{ghostwhite}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gold"
+			{
+				"color" "{gold}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Goldenrod"
+			{
+				"color" "{goldenrod}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Gray"
+			{
+				"color" "{gray}"
+				"price" "10000"
+				"type" "msgcolor"
+			}
+
+			"Green"
+			{
+				"color" "{green}"
+				"price" "10000"
+				"type" "msgcolor"
+			}
+
+			"Green Yellow"
+			{
+				"color" "{greenyellow}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Haunted"
+			{
+				"color" "{haunted}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Honeydew"
+			{
+				"color" "{honeydew}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Hot Pink"
+			{
+				"color" "{hotpink}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Indian Red"
+			{
+				"color" "{indianred}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Indigo"
+			{
+				"color" "{indigo}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Ivory"
+			{
+				"color" "{ivory}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Khaki"
+			{
+				"color" "{khaki}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lavender"
+			{
+				"color" "{lavender}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lavender Blush"
+			{
+				"color" "{lavenderblush}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lawn Green"
+			{
+				"color" "{lawngreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lemon Chiffon"
+			{
+				"color" "{lemonchiffon}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Blue"
+			{
+				"color" "{lightblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Coral"
+			{
+				"color" "{lightcoral}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Cyan"
+			{
+				"color" "{lightcyan}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Goldenrod Yellow"
+			{
+				"color" "{lightgoldenrodyellow}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Gray"
+			{
+				"color" "{lightgray}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Red"
+			{
+				"color" "{lightred}"
+				"price" "10000"
+				"type" "msgcolor"
+			}
+
+			"Light Green"
+			{
+				"color" "{lightgreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Pink"
+			{
+				"color" "{lightpink}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Salmon"
+			{
+				"color" "{lightsalmon}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Sea Green"
+			{
+				"color" "{lightseagreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Skyblue"
+			{
+				"color" "{lightskyblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Slategray"
+			{
+				"color" "{lightslategray}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Steel Blue"
+			{
+				"color" "{lightsteelblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Light Yellow"
+			{
+				"color" "{lightyellow}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Lime"
+			{
+				"color" "{lime}"
+				"price" "10000"
+				"type" "msgcolor"
+			}
+
+			"Lime Green"
+			{
+				"color" "{limegreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Linen"
+			{
+				"color" "{linen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Magenta"
+			{
+				"color" "{magenta}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Maroon"
+			{
+				"color" "{maroon}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Aquamarine"
+			{
+				"color" "{mediumaquamarine}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Blue"
+			{
+				"color" "{mediumblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Orchid"
+			{
+				"color" "{mediumorchid}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Purple"
+			{
+				"color" "{mediumpurple}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Sea Green"
+			{
+				"color" "{mediumseagreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Slate Blue"
+			{
+				"color" "{mediumslateblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Spring Green"
+			{
+				"color" "{mediumspringgreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Turquoise"
+			{
+				"color" "{mediumturquoise}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Medium Violet Red"
+			{
+				"color" "{mediumvioletred}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Midnight Blue"
+			{
+				"color" "{midnightblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Mintcream"
+			{
+				"color" "{mintcream}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Misty Rose"
+			{
+				"color" "{mistyrose}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Moccasin"
+			{
+				"color" "{moccasin}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Navajo White"
+			{
+				"color" "{navajowhite}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Navy"
+			{
+				"color" "{navy}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Old Lace"
+			{
+				"color" "{oldlace}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Olive"
+			{
+				"color" "{olive}"
+				"price" "10000"
+				"type" "msgcolor"
+			}
+
+			"Olive Drab"
+			{
+				"color" "{olivedrab}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orange"
+			{
+				"color" "{orange}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orange Red"
+			{
+				"color" "{orangered}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Orchid"
+			{
+				"color" "{orchid}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Golden Rod"
+			{
+				"color" "{palegoldenrod}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Green"
+			{
+				"color" "{palegreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale Turquoise"
+			{
+				"color" "{paleturquoise}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pale violetRed"
+			{
+				"color" "{palevioletred}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Papaya Whip"
+			{
+				"color" "{papayawhip}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Peach Puff"
+			{
+				"color" "{peachpuff}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Peru"
+			{
+				"color" "{peru}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Pink"
+			{
+				"color" "{pink}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Plum"
+			{
+				"color" "{plum}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Powder Blue"
+			{
+				"color" "{powderblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Purple"
+			{
+				"color" "{purple}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Red"
+			{
+				"color" "{red}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Rosy Brown"
+			{
+				"color" "{rosybrown}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Royal Blue"
+			{
+				"color" "{royalblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Saddle Brown"
+			{
+				"color" "{saddlebrown}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Salmon"
+			{
+				"color" "{salmon}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sandy Brown"
+			{
+				"color" "{sandybrown}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sea Green"
+			{
+				"color" "{seagreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Seashell"
+			{
+				"color" "{seashell}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Sienna"
+			{
+				"color" "{sienna}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Silver"
+			{
+				"color" "{silver}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Skyblue"
+			{
+				"color" "{skyblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Slate blue"
+			{
+				"color" "{slateblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Slate Gray"
+			{
+				"color" "{slategray}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Snow"
+			{
+				"color" "{snow}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Spring Green"
+			{
+				"color" "{springgreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Steel Blue"
+			{
+				"color" "{steelblue}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Tan"
+			{
+				"color" "{tan}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Teal"
+			{
+				"color" "{teal}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Thistle"
+			{
+				"color" "{thistle}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Tomato"
+			{
+				"color" "{tomato}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Turquoise"
+			{
+				"color" "{turquoise}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Violet"
+			{
+				"color" "{violet}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Wheat"
+			{
+				"color" "{wheat}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"White"
+			{
+				"color" "{white}"
+				"price" "10000"
+				"type" "msgcolor"
+			}
+
+			"Yellow"
+			{
+				"color" "{yellow}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+
+			"Yellow Green"
+			{
+				"color" "{yellowgreen}"
+				"price" "10000"
+				"type" "msgcolor"
+				"games" "tf,cstrike"
+			}
+		}
+	}
+}

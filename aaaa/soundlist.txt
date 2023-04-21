@@ -1,0 +1,4 @@
+"Yesmp3" admin_plugin/SF-violentsex1.mp3
+"Yeswav" admin_plugin/SF-violentsex1.wav
+"DVwav" admin_plugin/dvsound.wav
+"DVwavSound" sound/admin_plugin/dvsound.wav
